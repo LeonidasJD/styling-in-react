@@ -26,22 +26,22 @@ button:focus {
 }
 
 header {
-  display: flex;
+  /* display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 2rem; */
 }
 
-header img {
+/* header img {
   object-fit: contain;
   margin-bottom: 2rem;
   width: 11rem;
   height: 11rem;
-}
+} */
 
-header h1 {
+/* header h1 {
   font-size: 1.5rem;
   font-weight: 600;
   letter-spacing: 0.4em;
@@ -50,15 +50,15 @@ header h1 {
   color: #9a3412;
   font-family: 'Pacifico', cursive;
   margin: 0;
-}
+} */
 
-header p {
+/* header p {
   text-align: center;
   color: #a39191;
   margin: 0;
-}
+} */
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   header {
     margin-bottom: 4rem;
   }
@@ -66,7 +66,7 @@ header p {
   header h1 {
     font-size: 2.25rem;
   }
-}
+} */
 
 #auth-inputs {
   width: 100%;
@@ -123,7 +123,7 @@ input.invalid {
   gap: 1rem;
 }
 
-.button {
+/* .button {
   padding: 1rem 2rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -136,7 +136,7 @@ input.invalid {
 
 .button:hover {
   background-color: #f0920e;
-}
+} */
 
 .text-button {
   color: #f0b322;
