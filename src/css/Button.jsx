@@ -10,6 +10,7 @@ const Button = styled.button`
     className === "contact" ? "red" : "#f0b322"};
   border-radius: 6px;
   border: none;
+  margin-left:10px;
 
   &:hover {
     background-color: #f0920e;

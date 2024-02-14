@@ -10,7 +10,7 @@ const Input = styled.input`
   border-radius: 0.25rem;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
 
-  .invalid {
+  &.invalid {
     color: #ef4444;
     border-color: #f73f3f;
     background-color: #fed2d2;

@@ -9,7 +9,7 @@ const Label = styled.label`
   text-transform: uppercase;
   color: #6b7280;
 
-  .invalid {
+  &.invalid {
     color: #f87171;
   }
 `;
